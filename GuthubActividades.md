@@ -44,3 +44,8 @@ Repositorio: https://github.com/dsa069/ualhmis.github.io.git
 ![alt text](ImgSesion3/image-51.png)
 ![alt text](ImgSesion3/image-52.png)
 ![alt text](ImgSesion3/image-53.png)
+![alt text](ImgSesion3/image-54.png)
+![alt text](ImgSesion3/image-55.png)
+![alt text](ImgSesion3/image-56.png)
+![alt text](ImgSesion3/image-57.png)
+![alt text](ImgSesion3/image-58.png)
